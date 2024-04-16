@@ -1,0 +1,12 @@
+{
+  "name": "ocean-jornada-backend-abril-2024",
+  "version": "1.0.0",
+  "description": "Projeto da jornada Backend Abril com Node KS e Express, no curso da Sansung Ocean",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
