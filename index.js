@@ -10,3 +10,9 @@ app.get('/oi', function (req, res) {
     res.send('Olá, mundo!')
 })
 app.listen(3000)
+// Lista de Itens
+const Lista = ['Rick Sanchez', 'Morty Smith', 'Summer Smith']
+// Endpoint Read All -> [GET] /item
+app.get('/item', function (req, res) {
+  res.send(lista)
+}
